@@ -1,4 +1,4 @@
 # tutorial
 This is a GitHub demo.
 <br>
-Author - Laranya Reddy
+Author - Laranya Reddy (kANDULA)
