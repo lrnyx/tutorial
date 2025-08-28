@@ -1,2 +1,3 @@
 # tutorial
-This is a GitHub demo
+This is a GitHub demo.
+Author - Laranya Reddy
